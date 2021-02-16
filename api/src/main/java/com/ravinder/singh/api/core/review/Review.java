@@ -1,4 +1,4 @@
-package api.core.review;
+package com.ravinder.singh.api.core.review;
 
 public class Review {
 	

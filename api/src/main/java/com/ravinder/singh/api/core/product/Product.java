@@ -1,4 +1,4 @@
-package api.core.product;
+package com.ravinder.singh.api.core.product;
 
 public class Product {
 	private final int productId;

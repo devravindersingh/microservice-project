@@ -1,4 +1,4 @@
-package util.exceptions;
+package com.ravinder.singh.util.exceptions;
 
 public class InvalidInputException extends RuntimeException {
     public InvalidInputException() {

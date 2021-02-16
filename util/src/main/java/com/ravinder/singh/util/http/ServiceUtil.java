@@ -1,4 +1,4 @@
-package util.http;
+package com.ravinder.singh.util.http;
 
 import java.net.InetAddress;
 import java.net.UnknownHostException;

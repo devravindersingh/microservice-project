@@ -8,7 +8,7 @@
 		<version>0.0.1-SNAPSHOT</version>
 	</parent>
 
-	<groupId>com.ravinder.singh.util</groupId>
+	<groupId>com.ravinder.singh.helper</groupId>
 	<artifactId>util</artifactId>
 	<name>util</name>
 

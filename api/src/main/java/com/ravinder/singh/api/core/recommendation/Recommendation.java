@@ -1,4 +1,4 @@
-package api.core.recommendation;
+package com.ravinder.singh.api.core.recommendation;
 
 public class Recommendation {
 	private final int productId;
