@@ -4,3 +4,9 @@ logging:
   level:
     root: INFO
     '[com.ravinder.singh]': debug
+---
+spring:
+  profiles:
+  - docker
+server:
+  port: 8080
